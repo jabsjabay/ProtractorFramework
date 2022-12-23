@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8" ?>
-<testsuites disabled="0" errors="0" failures="1" tests="2" time="6.376">
- <testsuite name="demo calculator test" timestamp="2022-12-20T15:04:47" hostname="localhost" time="6.376" errors="0" tests="2" skipped="0" disabled="0" failures="1">
-  <testcase classname="demo calculator test" name="addition test" time="6.247" />
-  <testcase classname="demo calculator test" name="subtraction test" time="0.127">
+<testsuites disabled="0" errors="0" failures="1" tests="2" time="5.909">
+ <testsuite name="demo calculator test" timestamp="2022-12-23T14:33:15" hostname="localhost" time="5.909" errors="0" tests="2" skipped="0" disabled="0" failures="1">
+  <testcase classname="demo calculator test" name="addition test" time="5.794" />
+  <testcase classname="demo calculator test" name="subtraction test" time="0.112">
    <failure type="exception" message="Failed: homepage.clickGo1 is not a function"><![CDATA[TypeError: homepage.clickGo1 is not a function
-    at UserContext.<anonymous> (C:\Users\jjabay\Desktop\Projects\ProtractorDemo\test\calculator.js:36:18)
+    at UserContext.<anonymous> (C:\Users\jjabay\source\repos\ProtractorFramework\test\calculator.js:36:18)
     at C:\Users\jjabay\AppData\Roaming\npm\node_modules\protractor\node_modules\jasminewd2\index.js:112:25
     at new ManagedPromise (C:\Users\jjabay\AppData\Roaming\npm\node_modules\protractor\node_modules\selenium-webdriver\lib\promise.js:1077:7)
     at ControlFlow.promise (C:\Users\jjabay\AppData\Roaming\npm\node_modules\protractor\node_modules\selenium-webdriver\lib\promise.js:2505:12)
@@ -27,11 +27,11 @@ From: Task: Run it("subtraction test") in control flow
     at runNext (C:\Users\jjabay\AppData\Roaming\npm\node_modules\protractor\node_modules\jasmine-core\lib\jasmine-core\jasmine.js:4257:20)
 From asynchronous test: 
 Error
-    at Suite.<anonymous> (C:\Users\jjabay\Desktop\Projects\ProtractorDemo\test\calculator.js:25:5)
+    at Suite.<anonymous> (C:\Users\jjabay\source\repos\ProtractorFramework\test\calculator.js:25:5)
     at addSpecsToSuite (C:\Users\jjabay\AppData\Roaming\npm\node_modules\protractor\node_modules\jasmine-core\lib\jasmine-core\jasmine.js:1107:25)
     at Env.describe (C:\Users\jjabay\AppData\Roaming\npm\node_modules\protractor\node_modules\jasmine-core\lib\jasmine-core\jasmine.js:1074:7)
     at describe (C:\Users\jjabay\AppData\Roaming\npm\node_modules\protractor\node_modules\jasmine-core\lib\jasmine-core\jasmine.js:4399:18)
-    at Object.<anonymous> (C:\Users\jjabay\Desktop\Projects\ProtractorDemo\test\calculator.js:3:1)
+    at Object.<anonymous> (C:\Users\jjabay\source\repos\ProtractorFramework\test\calculator.js:3:1)
     at Module._compile (node:internal/modules/cjs/loader:1159:14)
     at Object.Module._extensions..js (node:internal/modules/cjs/loader:1213:10)
     at Module.load (node:internal/modules/cjs/loader:1037:32)
