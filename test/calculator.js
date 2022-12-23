@@ -22,7 +22,7 @@ describe('demo calculator test', function () {
         browser.sleep(3000);
     });
 
-    it('subtraction test', function () {
+    /*it('subtraction test', function () {
         // browser.get('http://juliemr.github.io/protractor-demo/');
         homepage.get('http://juliemr.github.io/protractor-demo/');
 
@@ -40,5 +40,5 @@ describe('demo calculator test', function () {
         homepage.verifyResult('5');
 
         browser.sleep(3000);
-    });
+    });*/
 });
