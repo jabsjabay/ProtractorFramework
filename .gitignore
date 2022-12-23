@@ -1,0 +1,12 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/target/screenshots/38555361576a3af09021164d64fb2e5b.png
+/target/screenshots
+/allure-results/8b73bf44-2f1c-4c4d-9538-7a33d1a9a42b-testsuite.xml
+/allure-results
+/.vs/ProtractorFramework/FileContentIndex/9ce07dd3-2bac-47b9-814e-8ce6615bf088.vsidx
+/.vs/ProtractorFramework/FileContentIndex/53567180-199a-440e-9559-1de6d4075765.vsidx
+/.vs/ProtractorFramework/FileContentIndex/4749dbc4-8fc4-4ac0-b820-feb6ac05ae0d.vsidx
+/.vs/ProtractorFramework/FileContentIndex
